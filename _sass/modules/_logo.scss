@@ -12,9 +12,11 @@
 	@include mq(small) {
 	  margin-top: 20px;
 	  margin-bottom: 20px; 
+	  background-color: white;
 	}
 	@include mq(medium) {
 		float: left;
 		margin-top: 11px;
+		background-color: white;
 	}
 }

@@ -1,5 +1,6 @@
 # Site settings
 title: Blue Orchid Blog
+name: Blue Orchid Blog
 email: sallyinstc@gmail.com
 description: A blog about things digital and analog.
 url: "http://sallyinstc.github.io" # the base hostname & protocol for your site
