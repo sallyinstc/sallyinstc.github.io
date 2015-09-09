@@ -1,0 +1,16 @@
+---
+layout: post
+title: "It Was a Dark and Stormy Night"
+category: analog
+author: Sally Gradle
+---
+I've been thinking a lot about the question, "What scares you?" lately. I feel that's normal when starting something new. But today I really did have to face something scary. Not scary like vampires or ghosts (Those do scare me, but that's why I like horror. More on that in another post.), but scary like having to use all of your skills and move forward even when you are unsure. 
+
+I have a child attending university at a midwestern school. Like most of the midwestern schools, it is in a small town that is a very rural setting. In order to get to these schools, one must drive through the agriculural heartland of this nation. I get a great deal of joy driving across the middle of my state, the landscape moving from flat to gently rolling; crops of corn, soybeans, and a some wheat along with livestock of cattle, horses, sheep, and even the occasional alpaca moving in and out of view. Depending on the time of year, the vista can be one of lush greens or stark blue-white. Today, the view was mostly gray, when there was one.
+
+It's about a four-hour drive from our home to this child's school. He was in need of a desk and chair and I had the means to get it to him. I was spoiling him while simultaneously doing the I-Told-You-So dance. It's a gift. There is quite a fair amount of traffic on the highways, this being the middle of the country and all. I knew there would be road construction because in the midwest road construction must be done when the weather permits. Winters can be viciously cold. And then, there are the thunderstorms. 
+
+Driving along an interstate highway under construction conditions with blinding rain is scary. Wiper blades can't clear the widshild fast enough. Other drivers don't have their lights on to make them more visible. Gray concrete barriers just blend in with the rest of the background and the temporary lines on the road aren't visible more than two or three feet ahead of the car. Anything can happen, and drivers would not be able to do anything about it. At one point I just could not see far enough to drive so I, along with several other drivers, pulled off the road onto the shoulder with hazard lights blinking to wait out the worst of it and catch my breath. This worried me a little because I had a short window of time to make my delivery during a break between classes. After about five minutes the weather had cleared enough to drive in rain instead of deluge. I delivered the essential student furniture and we even had time for lunch. The drive home was much easier on my nerves since I didn't have a time limit and, hey, I just did this, right?
+
+So what do you do when it's scary and you can't see where you are going? Should you keep going? Are you up to it? What if you've never done this before and you are building your skill set *right now*? These are the scary thoughts I have just before sleep. Sometimes, the answer is to slow down a little and trust your own judgement. Sometimes it's better to stop briefly to wait for the right time. Whatever the best course is, the important thing is to take the next step because someone is depending on that forward motion. It might even be you.
+
