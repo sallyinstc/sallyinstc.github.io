@@ -18,7 +18,7 @@ published: true
 
 Please visit the links below to see samples of work. Also, the websites are, if nothing else, a pleasant distraction.
 
-See samples of code written at my <a href="https://github.com/sallyinstc"> Github</a> location.
+See samples of projects, including the blog, at my <a href="https://github.com/sallyinstc"> Github</a> location.
 
 Check out the website of Anne Fortin. She gives lessons in blackjack. <a href="http://blackjackwithanne.com/">Blackjack With Anne</a>
 
